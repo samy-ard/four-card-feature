@@ -160,7 +160,7 @@ p {
 
 @media screen and (min-width: 992px) {
 	.site-page {
-		padding: 5.2rem 2rem;
+		padding: 5.333333333333333rem 2rem;
 	}
 
 	.col {
@@ -170,7 +170,7 @@ p {
 	}
 
 	.card {
-		padding: 2rem 2.1rem 2.2rem;
+		padding: 1.866667rem 2.1rem 2.2rem;
 	}
 
 	.card:first-child:not(:last-child) {
